@@ -10,6 +10,6 @@ text.menuSection{
     margin-right: 80px;
 }
 
-p.mainContent{
-    font-size: large;
+.mainContent{
+    margin: 0 70px;
 }
