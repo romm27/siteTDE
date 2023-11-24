@@ -1,15 +1,28 @@
 .menuSection{
-    
+    background-color: black;
+    background-color: rgba(0, 0, 0, 0.35);
     font-size: medium;
     text-decoration: none;
     color: azure;
 }
 
+.mainContent{
+    margin: 0 90px;
+    
+}
+
 text.menuSection{
     margin-left: 80px;
     margin-right: 80px;
+    
 }
 
-.mainContent{
-    margin: 0 70px;
+.menuSection a {
+    color: #ff0000; /* Substitua #ff0000 pelo código da cor desejada */
+    text-decoration: none; /* Remove o sublinhado padrão dos links, se preferir */
+}
+
+/* CSS para mudar a cor dos links quando são hover (quando o mouse passa sobre eles) */
+.menuSection a:hover {
+    color: #00ff00; /* Substitua #00ff00 pelo código da cor desejada durante o hover */
 }
