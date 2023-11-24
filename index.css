@@ -1,3 +1,15 @@
-.main{
+.menuSection{
     background-color: black;
+    font-size: medium;
+    text-decoration: none;
+    color: azure;
+}
+
+text.menuSection{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+p.mainContent{
+    font-size: large;
 }
